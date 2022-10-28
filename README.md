@@ -1267,7 +1267,7 @@ harshithap2000-dai_deprivation"
 
 "AbhinavXT_AbhinavXT"
 
-![](AbhinavXT_AbhinavXT.png)
+![](AbhinavXT_AbhinavXT(1).png)
 
 "urbanbyte_dino"
 
@@ -1649,6 +1649,10 @@ harshithap2000-dai_deprivation"
 
 ![](PhantomKnight287_dino.png)
 
+"gitnandini_dino_gitnandini"
+
+![](gitnandini_dino_gitnandini.png)
+
 "Vangmay_javaDino"
 
 ![](Vangmay_javaDino.png)
@@ -1956,7 +1960,7 @@ harshithap2000-dai_deprivation"
 
 "sanj_55_YE_THE_MONSTER"
 
-![](sanj_55_DINO.png)
+![](sanj_55_MONSTER.png)
 
 "jadecuriepark_tomatoglassesdino"
 
@@ -2214,8 +2218,8 @@ harshithap2000-dai_deprivation"
 
 ![](aileencrivera_dino.png) 
 
+
 "dinosaur"
 
 ![](dinosaur.png) 
-
 
